@@ -13,6 +13,15 @@ public class SmallTruck extends Truck {
             packages.add(pack);
         }
     }
+    @Override
+    public int getMaxWeight() {
+        return MAX_WEIGHT;
+    }
+
+    @Override
+    public int getMaxVolume() {
+        return MAX_VOLUME;
+    }
 
     @Override
     public int totalVolume() {

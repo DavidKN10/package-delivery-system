@@ -8,6 +8,9 @@ public abstract class Truck{
     private static int count = 1;
     int truckID;
 
+    public static final int MAX_VOLUME = 0;
+    public static final int MAX_WEIGHT = 0;
+
 
     public Truck(){
         truckID = count;
@@ -45,6 +48,14 @@ public abstract class Truck{
             truckHours += aPackage.getTime();
         }
         return truckHours;
+    }
+
+    public int getMaxWeight() {
+        return MAX_WEIGHT;
+    }
+
+    public int getMaxVolume() {
+        return MAX_VOLUME;
     }
 
     @Override

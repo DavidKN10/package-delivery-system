@@ -15,6 +15,17 @@ public class LargeTruck extends Truck {
     }
 
     @Override
+    public int getMaxWeight() {
+        return MAX_WEIGHT;
+    }
+
+    @Override
+    public int getMaxVolume() {
+        return MAX_VOLUME;
+    }
+
+
+    @Override
     public int totalVolume() {
         int total = 0;
         for (Pack pack : packages) {
