@@ -58,6 +58,14 @@ public abstract class Truck{
         return MAX_VOLUME;
     }
 
+    public int totalTruckHours(){
+        int truckHours = 0;
+        for(Pack pack : packages) {
+            truckHours += pack.getTime();
+        }
+        return truckHours;
+    }
+
     @Override
     public String toString(){
         return "Truck ID: "+getTruckID()+" Total Volume: "+ totalVolume()+" Total Weight: "+totalWeight();
