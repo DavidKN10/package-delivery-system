@@ -84,9 +84,8 @@ public class PackageDeliverySystem {
         List<String> days = new ArrayList<>();
         for(String str : stringPacks) {
             int indexSlash = str.indexOf("/");
-            days.add(str.substring(indexSlash+1, indexSlash+2));
+            days.add(str.substring(indexSlash+1, indexSlash+3));
         }
-
 
 
         ArrayList<Integer> intDays = new ArrayList<>();
@@ -97,11 +96,6 @@ public class PackageDeliverySystem {
         //implementation of algorithm
 
         //sort by day
-        for(Pack pack:packs){
-            System.out.println(pack.toString());
-        }
-
-
         bisDay(intDays, packs);
         System.out.println("--------------------------");
         for(Pack pack:packs){
