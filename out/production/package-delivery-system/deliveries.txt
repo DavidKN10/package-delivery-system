@@ -1,0 +1,39 @@
+LIST OF TRUCKS WITH PACKAGE INFO
+================================
+
+
+Truck 1: Truck ID: 1 Total Volume: 902 Total Weight: 1820
+-------------------
+ID:30 Company:Eli Lilly Zone:V7 Date:1/2/15 Weight:336 Volume:200
+ID:29 Company:Alphabet Class C Zone:A5 Date:1/2/16 Weight:307 Volume:155 Time:11
+ID:28 Company:NVIDIA Zone:C5 Date:1/2/16 Weight:199 Volume:77
+ID:27 Company:Coca-Cola Company Zone:L2 Date:1/2/17 Weight:342 Volume:41 Time:16
+ID:26 Company:Berkshire Hathaway Class B Zone:P7 Date:1/2/16 Weight:171 Volume:149 Time:15
+ID:25 Company:Tesla Zone:M1 Date:1/2/16 Weight:341 Volume:161 Time:13
+ID:23 Company:AbbVie Inc. Zone:D1 Date:1/2/16 Weight:124 Volume:119 Time:16
+
+Truck 2: Truck ID: 2 Total Volume: 2380 Total Weight: 5044
+-------------------
+ID:22 Company:JPMorgan Chase Zone:M4 Date:1/2/17 Weight:321 Volume:145 Time:15
+ID:21 Company:JPMorgan Chase Zone:Z1 Date:1/2/15 Weight:208 Volume:180
+ID:20 Company:Alphabet Class C Zone:V7 Date:1/2/13 Weight:79 Volume:63
+ID:19 Company:Coca-Cola Company Zone:H8 Date:1/2/14 Weight:149 Volume:28 Time:12
+ID:18 Company:Exxon Mobil Zone:Q1 Date:1/2/17 Weight:295 Volume:82
+ID:17 Company:Visa Class A Zone:B5 Date:1/2/16 Weight:327 Volume:70 Time:10
+ID:16 Company:Chevron Corporation Zone:H7 Date:1/2/14 Weight:186 Volume:77
+ID:15 Company:Eli Lilly Zone:N2 Date:1/2/16 Weight:241 Volume:116 Time:15
+ID:14 Company:Home Depot Zone:F6 Date:1/2/14 Weight:124 Volume:42
+ID:13 Company:AbbVie Inc. Zone:C1 Date:1/2/14 Weight:160 Volume:204
+ID:12 Company:Home Depot Zone:U6 Date:1/2/17 Weight:114 Volume:169 Time:16
+ID:11 Company:Bank of America Zone:J3 Date:1/2/17 Weight:274 Volume:90 Time:13
+ID:10 Company:Procter & Gamble Zone:H8 Date:1/2/16 Weight:155 Volume:191
+ID:9 Company:Alphabet Class A Zone:G8 Date:1/2/13 Weight:300 Volume:115 Time:15
+ID:8 Company:Procter & Gamble Zone:A8 Date:1/2/16 Weight:312 Volume:66 Time:11
+ID:7 Company:JPMorgan Chase Zone:E6 Date:1/2/17 Weight:347 Volume:156 Time:10
+ID:6 Company:Procter & Gamble Zone:Z2 Date:1/2/17 Weight:169 Volume:29 Time:16
+ID:5 Company:Procter & Gamble Zone:H8 Date:1/2/16 Weight:155 Volume:191
+ID:4 Company:Alphabet Class A Zone:G8 Date:1/2/13 Weight:300 Volume:115 Time:15
+ID:3 Company:Procter & Gamble Zone:A8 Date:1/2/16 Weight:312 Volume:66 Time:11
+ID:2 Company:JPMorgan Chase Zone:E6 Date:1/2/17 Weight:347 Volume:156 Time:10
+ID:1 Company:Procter & Gamble Zone:Z2 Date:1/2/17 Weight:169 Volume:29 Time:16
+
