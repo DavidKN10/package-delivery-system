@@ -98,10 +98,6 @@ public class PackageDeliverySystem {
         //sort by day
         bisDay(intDays, packs);
         System.out.println("--------------------------");
-        for(Pack pack:packs){
-            System.out.println(pack.toString());
-        }
-
         ArrayList<Truck> trucks = new ArrayList<>();
         trucks.add(new SmallTruck());
         assignPacks(trucks, packs);
