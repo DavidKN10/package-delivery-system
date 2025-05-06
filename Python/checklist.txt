@@ -1,0 +1,25 @@
+classes to work on: ALL DONE
+Date
+pack
+spacial pack
+truck
+small truck
+medium truck
+large truck
+
+work on reading from a file DONE
+work on writing to a file DONE
+
+
+work on package_delivery_system:
+add methods DONE
+getting files ready DONE
+text to pack objects    DONE
+
+make algorithm DONE
+
+
+implement algorithm DONE
+
+
+write to file DONE
