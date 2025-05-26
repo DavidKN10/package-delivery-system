@@ -7,5 +7,5 @@ languages by rebuilding it in said languages.
 ## Languages so Far:
   - Java
   - Python
-  - C++ (in progress)
+  - C++
 

@@ -1,0 +1,39 @@
+List of Trucks With Package Info
+================================
+
+Truck 1: Truck ID: 1 Total Volume: 844 Total Weight: 1634
+--------------------------------
+ID: 19 Company: Alphabet Class C Zone: V7 Date: 3/13/2023 Weight: 79 Volume: 63
+ID: 8 Company: Alphabet Class A Zone: G8 Date: 3/13/2023 Weight: 300 Volume: 115
+ID: 3 Company: Alphabet Class A Zone: G8 Date: 3/13/2023 Weight: 300 Volume: 115
+ID: 18 Company: Coca-Cola Company Zone: H8 Date: 3/14/2023 Weight: 149 Volume: 28
+ID: 15 Company: Chevron Corporation Zone: H7 Date: 3/14/2023 Weight: 186 Volume: 77
+ID: 13 Company: Home Depot Zone: F6 Date: 3/14/2023 Weight: 124 Volume: 42
+ID: 12 Company: AbbVie Inc. Zone: C1 Date: 3/14/2023 Weight: 160 Volume: 204
+ID: 29 Company: Eli Lilly Zone: V7 Date: 3/15/2023 Weight: 336 Volume: 200
+
+Truck 2: Truck ID: 2 Total Volume: 2474 Total Weight: 5566
+--------------------------------
+ID: 20 Company: JPMorgan Chase Zone: Z1 Date: 3/15/2023 Weight: 208 Volume: 180
+ID: 28 Company: Alphabet Class C Zone: A5 Date: 3/16/2023 Weight: 307 Volume: 155
+ID: 27 Company: NVIDIA Zone: C5 Date: 3/16/2023 Weight: 199 Volume: 77
+ID: 25 Company: Berkshire Hathaway Class B Zone: P7 Date: 3/16/2023 Weight: 171 Volume: 149
+ID: 24 Company: Tesla Zone: M1 Date: 3/16/2023 Weight: 341 Volume: 161
+ID: 22 Company: AbbVie Inc. Zone: D1 Date: 3/16/2023 Weight: 124 Volume: 119
+ID: 16 Company: Visa Class A Zone: B5 Date: 3/16/2023 Weight: 327 Volume: 70
+ID: 14 Company: Eli Lilly Zone: N2 Date: 3/16/2023 Weight: 241 Volume: 116
+ID: 9 Company: Procter & Gamble Zone: H8 Date: 3/16/2023 Weight: 155 Volume: 191
+ID: 7 Company: Procter & Gamble Zone: A8 Date: 3/16/2023 Weight: 312 Volume: 66
+ID: 4 Company: Procter & Gamble Zone: H8 Date: 3/16/2023 Weight: 155 Volume: 191
+ID: 2 Company: Procter & Gamble Zone: A8 Date: 3/16/2023 Weight: 312 Volume: 66
+ID: 26 Company: Coca-Cola Company Zone: L2 Date: 3/17/2023 Weight: 342 Volume: 41
+ID: 23 Company: Home Depot Zone: O7 Date: 3/17/2023 Weight: 336 Volume: 36
+ID: 21 Company: JPMorgan Chase Zone: M4 Date: 3/17/2023 Weight: 321 Volume: 145
+ID: 17 Company: Exxon Mobil Zone: Q1 Date: 3/17/2023 Weight: 295 Volume: 82
+ID: 11 Company: Home Depot Zone: U6 Date: 3/17/2023 Weight: 114 Volume: 169
+ID: 10 Company: Bank of America Zone: J3 Date: 3/17/2023 Weight: 274 Volume: 90
+ID: 6 Company: JPMorgan Chase Zone: E6 Date: 3/17/2023 Weight: 347 Volume: 156
+ID: 5 Company: Procter & Gamble Zone: Z2 Date: 3/17/2023 Weight: 169 Volume: 29
+ID: 1 Company: JPMorgan Chase Zone: E6 Date: 3/17/2023 Weight: 347 Volume: 156
+ID: 0 Company: Procter & Gamble Zone: Z2 Date: 3/17/2023 Weight: 169 Volume: 29
+

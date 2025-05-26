@@ -1,0 +1,13 @@
+# ninja log v6
+15	1091	7699293721985390	CMakeFiles/recreatingCS166Project.dir/main.cpp.obj	eb83f4feb0a13fdf
+27	796	7697754654671214	CMakeFiles/recreatingCS166Project.dir/Truck.cpp.obj	3b11b010b269704
+20	628	7697754654601185	CMakeFiles/recreatingCS166Project.dir/Pack.cpp.obj	4c26317ed5f24034
+40	731	7697754654791213	CMakeFiles/recreatingCS166Project.dir/LargeTruck.cpp.obj	f92f21c761f3eacc
+13	303	7699297530084306	build.ninja	36a91061b0754910
+21	405	7692497875792113	CMakeFiles/recreatingCS166Project.dir/Date.cpp.obj	d73e245bd052282e
+1092	1319	7699293732755369	recreatingCS166Project.exe	e8eedc426e5e4451
+24	782	7697754654631207	CMakeFiles/recreatingCS166Project.dir/testing.cpp.obj	a595f393ffec4162
+31	703	7697754654711213	CMakeFiles/recreatingCS166Project.dir/SmallTruck.cpp.obj	2e0bfee3e5b09839
+35	679	7697754654751217	CMakeFiles/recreatingCS166Project.dir/MediumTruck.cpp.obj	16c45a5031032822
+44	614	7697754654831214	CMakeFiles/recreatingCS166Project.dir/SpecialPack.cpp.obj	c3073d2628820bdb
+13	660	7699297530084306	build.ninja	36a91061b0754910

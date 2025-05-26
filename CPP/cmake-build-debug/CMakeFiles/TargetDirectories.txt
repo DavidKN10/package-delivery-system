@@ -1,0 +1,3 @@
+C:/Users/David/CLionProjects/recreatingCS166Project/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/David/CLionProjects/recreatingCS166Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David/CLionProjects/recreatingCS166Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
