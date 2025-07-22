@@ -1,0 +1,30 @@
+﻿S,Procter & Gamble,Z2,3/17/2023,169,29,16
+S,JPMorgan Chase,E6,3/17/2023,347,156,10
+S,Procter & Gamble,A8,3/16/2023,312,66,11
+S,Alphabet Class A,G8,3/13/2023,300,115,15
+R,Procter & Gamble,H8,3/16/2023,155,191
+S,Procter & Gamble,Z2,3/17/2023,169,29,16
+S,JPMorgan Chase,E6,3/17/2023,347,156,10
+S,Procter & Gamble,A8,3/16/2023,312,66,11
+S,Alphabet Class A,G8,3/13/2023,300,115,15
+R,Procter & Gamble,H8,3/16/2023,155,191
+S,Bank of America,J3,3/17/2023,274,90,13
+S,Home Depot,U6,3/17/2023,114,169,16
+R,AbbVie Inc.,C1,3/14/2023,160,204
+R,Home Depot,F6,3/14/2023,124,42
+S,Eli Lilly,N2,3/16/2023,241,116,15
+R,Chevron Corporation,H7,3/14/2023,186,77
+S,Visa Class A,B5,3/16/2023,327,70,10
+R,Exxon Mobil,Q1,3/17/2023,295,82
+S,Coca-Cola Company,H8,3/14/2023,149,28,12
+R,Alphabet Class C,V7,3/13/2023,79,63
+R,JPMorgan Chase,Z1,3/15/2023,208,180
+S,JPMorgan Chase,M4,3/17/2023,321,145,15
+S,AbbVie Inc.,D1,3/16/2023,124,119,16
+S,Home Depot,O7,3/17/2023,336,36,9
+S,Tesla,M1,3/16/2023,341,161,13
+S,Berkshire Hathaway Class B,P7,3/16/2023,171,149,15
+S,Coca-Cola Company,L2,3/17/2023,342,41,16
+R,NVIDIA,C5,3/16/2023,199,77
+S,Alphabet Class C,A5,3/16/2023,307,155,11
+R,Eli Lilly,V7,3/15/2023,336,200

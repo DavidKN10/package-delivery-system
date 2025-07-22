@@ -1,0 +1,14 @@
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\bin\Debug\net8.0\PackageDeliverySystem.exe
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\bin\Debug\net8.0\PackageDeliverySystem.deps.json
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\bin\Debug\net8.0\PackageDeliverySystem.runtimeconfig.json
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\bin\Debug\net8.0\PackageDeliverySystem.dll
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\bin\Debug\net8.0\PackageDeliverySystem.pdb
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.AssemblyInfoInputs.cache
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.AssemblyInfo.cs
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.dll
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\refint\PackageDeliverySystem.dll
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.pdb
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\PackageDeliverySystem.genruntimeconfig.cache
+C:\Users\David\CLionProjects\PackageDeliverySystem\PackageDeliverySystem\obj\Debug\net8.0\ref\PackageDeliverySystem.dll
